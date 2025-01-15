@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Why We Should Volunteer Somewhere
-subtitle: A short test run
+title:  Volunteering 
+subtitle: Why we should volunteer somewhere
 date:   2025-01-15 20:09:45 +1000
 categories: markdown image_urls
 author: James M 
@@ -11,7 +11,7 @@ excerpt_image: assets/images/amebarnbrook2.jpg
 
 # Why we Should Volunteer - Somewhere/ Anywhere 
 
-The idea of giving our time and effort to others seems easy until we have to actually go and do the giving. There are plenty of reasons we don't volunteer, time seems to be the main reason. It's usually out of hours or on a weekend, usually early on the weekend after a long week of work for most people. In this context the Volunteer Australian Report for 2023 highlights that more than 5 million people aged 15 and over volunteered formally and more than 6.5 million people aged 15 and over volunteered in an informal capacity.[^1a] It seems we are pretty good as Australians at volunteering in some way. The benefits of volunteering are different for everyone but there are a few that standout in various studies conducted.  
+The idea of giving our time and effort to others seems easy until we have to actually go and do the giving. There are plenty of reasons we don't volunteer, time seems to be the main reason. It's usually out of hours or on a weekend, usually early on the weekend after a long week of work for most people. In this context the Volunteer Australian Report for 2023 highlights that more than 5 million people aged 15 and over volunteered formally and more than 6.5 million people aged 15 and over volunteered in an informal capacity [^4]. It seems we are pretty good as Australians at volunteering in some way. The benefits of volunteering are different for everyone but there are a few that standout in various studies conducted.  
 
 ## The Benefits of Volunteering 
 
@@ -46,9 +46,11 @@ My personal experiences as a volunteer with [Sailability](https://sailabilitynsw
 Even with the various barriers to volunteering and the many and varied perspectives on why volunteering is a good thing there is an overarching goodness that comes from helping others. I would encourage everyone to help where they can, in even the smallest of ways it will make a difference to yourself and others. 
 
 
-[^1a]: https://www.volunteeringaustralia.org/wp-content/uploads/Volunteering-Australia-Key-Volunteering-Statistics-2024-Update.pdf 
+
 
 [^1]: Nichol, Beth, Rob Wilson, Angela Rodrigues, and Catherine Haighton. 2024. “Exploring the Effects of Volunteering on the Social, Mental, and Physical Health and Well-Being of Volunteers: An Umbrella Review.” VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations 35 (1): 97–128. https://doi.org/10.1007/s11266-023-00573-z.
+
+[^4]: https://www.volunteeringaustralia.org/wp-content/uploads/Volunteering-Australia-Key-Volunteering-Statistics-2024-Update.pdf 
 
 [^2]: Webster, Noah J., Kristine J. Ajrouch, and Toni C. Antonucci. 2021. “Volunteering and Health: The Role of Social Network Change.” Social Science & Medicine 285 (September):114274. https://doi.org/10.1016/j.socscimed.2021.114274.
 
