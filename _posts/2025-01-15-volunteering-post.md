@@ -9,7 +9,9 @@ banner: /assets/images/SailingPJ1Edited.jpg
 excerpt_image: assets/images/amebarnbrook2.jpg
 ---
 
-This post offers a few points on volunteering, what it means to volunteer, some of the benefits of volunteering, some of the barriers and the reasons. I also offer my personal perspective on volunteering and how it has influenced my leadership in a professional setting. 
+# Synopsis 
+
+This post offers a few points on volunteering, what it means to volunteer, some of the benefits of volunteering, some of the barriers and the reasons. I also offer my personal perspective on volunteering and how it has influenced my leadership in a professional setting.
 
 # Why we Should Volunteer - Somewhere/ Anywhere 
 
