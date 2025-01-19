@@ -46,7 +46,7 @@ My personal experiences as a volunteer with [Sailability](https://sailabilitynsw
 Even with the various barriers to volunteering and the many and varied perspectives on why volunteering is a good thing there is an overarching goodness that comes from helping others. I would encourage everyone to help where they can, in even the smallest of ways it will make a difference to yourself and others. 
 
 
-
+### References
 
 [^1]: Nichol, Beth, Rob Wilson, Angela Rodrigues, and Catherine Haighton. 2024. “Exploring the Effects of Volunteering on the Social, Mental, and Physical Health and Well-Being of Volunteers: An Umbrella Review.” VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations 35 (1): 97–128. https://doi.org/10.1007/s11266-023-00573-z.
 
