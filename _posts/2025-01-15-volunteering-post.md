@@ -9,6 +9,10 @@ banner: /assets/images/SailingPJ1Edited.jpg
 excerpt_image: assets/images/amebarnbrook2.jpg
 ---
 
+# Synopsis 
+
+This post offers a few points on volunteering, what it means to volunteer, some of the benefits of volunteering, some of the barriers and the reasons. I also offer my personal perspective on volunteering and how it has influenced my leadership in a professional setting.
+
 # Why we Should Volunteer - Somewhere/ Anywhere 
 
 The idea of giving our time and effort to others seems easy until we have to actually go and do the giving. There are plenty of reasons we don't volunteer, time seems to be the main reason. It's usually out of hours or on a weekend, usually early on the weekend after a long week of work for most people. In this context the Volunteer Australian Report for 2023 highlights that more than 5 million people aged 15 and over volunteered formally and more than 6.5 million people aged 15 and over volunteered in an informal capacity [^4]. It seems we are pretty good as Australians at volunteering in some way. The benefits of volunteering are different for everyone but there are a few that standout in various studies conducted.  
