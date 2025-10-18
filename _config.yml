@@ -7,83 +7,87 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
+
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
-title: Data Science Ideas and Thoughts 
+title: Data Science Ideas and Thoughts
 email: james.murray.2602@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  This is a collection of thought and ideas on Data Science and its application in the wild. 
 author: James M
+copyright: Copyright © 2018 - 2025
+description: >- # this means to ignore newlines until "baseurl:"
+  These are ideas and thoughts, not always correct.
 
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://www.data2idm.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: xx
-github_username:  james-m-2602
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://data2idm.com" # the base hostname & protocol for your site, e.g. http://example.com
+# favicon: "/favicon.png" # the favicon for your site
+
+# Yat date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+yat:
+  date_format: "%d %b %Y"
+
+# If you want more debug log, you can set true
+# debug: true
+
+# If you want transparent header, you can set true
+# header_transparent: false
+
+# Google analytics - GA4
+# google_analytics: "G-N54MN13CMZ"
+# enableDNT: "false"
+
+# If you want to generate website sitemap, you can set true
+sitemap: true
+
+# If you want to change site language, you can set lang option
+# lang: "en"  # default lang is en
+
+# You can choose a theme color
+# Default theme colors as below:
+# coolblack: #090a0b
+# spacegrey: #353535
+# snowwhite: #ffffff
+#
+theme_color: snowwhite
+#
+# Custom color as below:
+# theme_color: "#882250"
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+  - index.html
+  - archives.html
+  - categories.html
+  - tags.html
+  - about.md
+
+# Pagination setting
+paginate: 10
+
+# Disqus comments
+#disqus:
+#  shortname: "jeffreytse"
+
+# Gitment comments
+# gitment:
+#   username: ""
+#   repo: ""
+#   client_id: ""
+#   client_secret: ""
+#   redirect_uri: ""
 
 # Build settings
+markdown: kramdown
+remote_theme: jeffreytse/jekyll-theme-yat
 
-# remote_theme: "jeffreytse/jekyll-theme-yat"
-# theme: jekyll-theme-yat
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-spaceship
-
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-
-# Copyright setting
-# You can use any html code, currently below placeholders are available:
-# * current year: {currentYear}
-# * author: {author} (Value is the same as site.author)
-# * copyright: (c) - ©
-# * copyleft: (cleft)
-# * sound recording copyright: (p) - ℗
-#
-# For example:
-#   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
-#   "Copyright © 2017-2021 Foobar"
-#
-copyright: "Unpublished Work (cleft) 2024-{currentYear} {author}"
-
-# Yat date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-#yat:
-#  date_format: "%b %d, %Y"
-
-
-# Build settings
-# highlighter: none
-markdown: kramdown
-kramdown:
-  input: GFM
+  - jekyll-remote-theme
