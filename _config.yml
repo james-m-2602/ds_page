@@ -21,7 +21,8 @@
 title: Data Science Ideas and Thoughts 
 email: james.murray.2602@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a collection of thought and ideas on Data Science and it application in the wild. 
+  This is a collection of thought and ideas on Data Science and its application in the wild. 
+author: James M
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.data2idm.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -37,7 +38,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
-  #- jekyll-spaceship
+  - jekyll-spaceship
 
 
 # Exclude from processing.
