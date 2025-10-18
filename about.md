@@ -8,6 +8,6 @@ Leadership in this context is not only the custodian of organisational vision bu
 
 Supporting and integrating with Leadership are categories that cover Data Science Strategy & Impact, Industry-Specific Applications, Process & Methods, Technology & Tools, Roles & Skills, Project Delivery, and Ethics & Governance. Each category hosts rich, tagged content that enables individuals and teams to dive into their respective areas of interest or responsibility with clarity and purpose.
 
-This hub serves all members of the organization—from C-suite executives and data science leaders to business practitioners and technical professionals—providing actionable knowledge, fostering continual development, and strengthening the bridge between data science capabilities and organizational leadership. Engage, learn, and lead with confidence in a data-powered future.
+This page aims to inform those with an interest in making better quality decisions through to the technical professionals. It aims to provide thought provoking and actionable knowledge. It seeks to foster continual development by strengthening the bridge between data science capabilities and organisational leadership. Engage, learn, and lead with confidence in a data-powered future.
 
 Together, we drive innovation, insight, and lasting impact.

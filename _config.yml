@@ -16,7 +16,7 @@
 title: Data Science Ideas and Thoughts
 email: james.murray.2602@gmail.com
 author: James M
-copyright: Copyright © 2018 - 2025
+copyright: Copyright © 2024 - 2025
 description: >- # this means to ignore newlines until "baseurl:"
   These are ideas and thoughts, not always correct.
 
@@ -70,7 +70,7 @@ paginate: 10
 
 # Disqus comments
 #disqus:
-#  shortname: "jeffreytse"
+#  shortname: "james_m"
 
 # Gitment comments
 # gitment:
