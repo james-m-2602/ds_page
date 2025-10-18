@@ -13,7 +13,7 @@ permissions:
 
 concurrency:
   group: "pages"
-  cancel-in-progress: true 
+  cancel-in-progress: false 
 
 jobs:
   build:
@@ -23,7 +23,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
+        with:
+          fetch-depth: 0
+        
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -31,6 +33,18 @@ jobs:
           ruby-version: "3.1"
           # Runs 'bundle install' and caches installed gems automatically
           bundler-cache: true
+
+      - name: Install Dependancies
+        run: |
+          bundle install -- jobs 4 -- retry 3
+          bundle exec jeckyll -v 
+          env:
+            JEKYLL_ENV: production 
+
+      - name: Build Jekyll site with custom plugins
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
 
       - name: Version info
         run:
@@ -73,5 +87,5 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
         if: ${{ success() }}
