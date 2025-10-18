@@ -7,6 +7,9 @@ categories: markdown image_urls
 author: James M 
 banner: /assets/images/SailingPJ1Edited.jpg
 excerpt_image: assets/images/amebarnbrook2.jpg
+categories: Community
+tags: Volunteering Helping 
+
 ---
 
 # Synopsis 
