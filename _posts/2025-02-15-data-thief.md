@@ -1,21 +1,21 @@
 ---
 layout: post
-title: Stolen Data
+title: Missing Data
 author: James M
 banner:
   video: 
   loop: true
   volume: 0.8
   start_at: 8.5
-  image: data-storage.jpg
+  image: /assets/images/data-storage.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-categories: Technology and Tools
-tags: Data Storage Governance Processes Reporting
+categories: [Technology and Tools, Governance and Ethics]
+tags: [Data, Storage, Governance, Processes, Reporting]
 ---
 # Data Storage and Security: A Comprehensive Guide for Global Companies
 
@@ -29,7 +29,7 @@ Cloud services don't eliminate the question of physical location; they can compl
 
 ## Jurisdictional Responsibility and Regulatory Frameworks
 
-The responsibility for data protection doesn't rest solely with whoever owns the physical infrastructure. Legal frameworks increasingly hold data controllers—typically the organisation that determines how personal data is used—responsible regardless of where or how data is stored. Herein is where it starts to get murky. Some exmples of the standards and regulations that underpin the legal frameworks are below. 
+The responsibility for data protection doesn't rest solely with whoever owns the physical infrastructure. Legal frameworks increasingly hold data controllers—typically the organisation that determines how personal data is used—responsible regardless of where or how data is stored. Herein is where it starts to get murky. Some examples of the standards and regulations that underpin the legal frameworks are below. 
 
 **Key Regulatory Standards Include:**
 
