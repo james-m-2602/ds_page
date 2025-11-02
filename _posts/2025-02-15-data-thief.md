@@ -3,19 +3,19 @@ layout: post
 title: Stolen Data
 author: James M
 banner:
-  video: https://vjs.zencdn.net/v/oceans.mp4
+  video: 
   loop: true
   volume: 0.8
   start_at: 8.5
-  image: https://bit.ly/3xTmdUP
+  image: data-storage.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-categories: data 
-tags: data 
+categories: Technology and Tools
+tags: Data Storage Governance Processes Reporting
 ---
 # Data Storage and Security: A Comprehensive Guide for Global Companies
 
