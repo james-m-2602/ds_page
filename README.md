@@ -1,0 +1,1 @@
+This is a page framework for my thoughts and ideas on leadership and data science. 
