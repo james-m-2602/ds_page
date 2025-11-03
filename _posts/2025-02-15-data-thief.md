@@ -59,19 +59,19 @@ Hybrid approaches are increasingly common. The blended approach allows organisat
 
 ## Design Principles for Global Data Security
 
-**Principle 1: Data Sovereignty by Design**
+**Principle 1: Data Sovereignty by Design-**
 Architect systems to respect jurisdictional requirements from inception. Implement geographic data residency controls that ensure personal data remains within legally appropriate boundaries. Use regional cloud deployments, data classification schemes, and automated policy enforcement to prevent inadvertent cross-border transfers. This principle requires understanding not just where data is stored but where it's processed, backed up, and potentially accessed for support or analytics.
 
-**Principle 2: Zero Trust Architecture**
+**Principle 2: Zero Trust Architecture-**
 Assume no user, device, or system should be trusted by *default*, regardless of location. Implement continuous verification through multi-factor authentication, least-privilege access controls, and micro-segmentation. This approach is particularly crucial for global organisations where users, administrators, and systems span multiple countries and networks. Zero trust minimises the impact of any single point of compromise.
 
-**Principle 3: Encryption Everywhere**
+**Principle 3: Encryption Everywhere-**
 Protect data in transit, at rest, and in use through comprehensive encryption strategies. Use strong encryption standards [(AES-256 for data at rest, TLS 1.3 for data in transit)](https://www.cyber.gov.au/business-government/asds-cyber-security-frameworks/ism/cybersecurity-guidelines/guidelines-for-cryptography) with proper key management practices. Increasingly, technologies like confidential computing enable encryption even during processing. This principle ensures that even if physical security or jurisdictional protections fail, data remains protected.
 
-**Principle 4: Privacy by Default**
+**Principle 4: Privacy by Default-**
 Minimise data collection, retention, and processing to only what's necessary for legitimate business purposes. Implement data minimisation, purpose limitation, and retention schedules that automatically delete data when no longer needed. This reduces compliance burden across jurisdictions and limits exposure in case of breaches. Pseudonymisation and anonymisation techniques can enable analytics while protecting privacy.
 
-**Principle 5: Transparent Accountability**
+**Principle 5: Transparent Accountability-**
 Maintain comprehensive audit trails, data lineage documentation, and clear accountability for data handling decisions. Implement logging and monitoring that captures who accessed what data, when, and why—while ensuring these logs themselves comply with privacy requirements. This transparency enables regulatory compliance, supports incident response, and builds stakeholder trust.
 
 ## Maintaining Trust with Stakeholders
