@@ -7,7 +7,7 @@ banner:
   loop: true
   volume: 0.8
   start_at: 8.5
-  image: /assets/images/risk-mgmt.jpg
+  image: /assets/images/ai-details_image.jpeg.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"
