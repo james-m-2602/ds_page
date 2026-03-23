@@ -17,7 +17,7 @@ banner:
 categories: [Technology and Tools, Risk, Governance and Ethics]
 tags: [Data, Processes, Change, Decision, Governance] 
 ---
-AI tools such as ChatGPT and Claude are, at base, elaborate statistical guessers.^[Feyijimi et al. (2025).] They take your words, convert them into numerical tokens, and then predict which token is most likely to come next, over and over, until a paragraph appears.^[Feyijimi et al. (2025).] The illusion of understanding arises because these predictions are grounded in patterns learned from vast text corpora: news articles, code repositories, policy documents, social‑media chatter and academic papers.^[Feyijimi et al. (2025); Polyportis & Pahos (2024).] As Heersmink and colleagues argue, they are “multifunctional cognitive artefacts” that remix what they have seen rather than reason in any human sense.^[Heersmink et al. (2024).] Yet their fluency, combined with a chatty interface, encourages users to treat them less as calculators and more as colleagues—often granting them an authority that their statistical innards do not justify.^[Heersmink et al. (2024).]  
+AI tools such as ChatGPT and Claude are, at base, elaborate statistical guessers.[^1] They take your words, convert them into numerical tokens, and then predict which token is most likely to come next, over and over, until a paragraph appears.[^2] The illusion of understanding arises because these predictions are grounded in patterns learned from vast text corpora: news articles, code repositories, policy documents, social‑media chatter and academic papers.^[Feyijimi et al. (2025); Polyportis & Pahos (2024).] As Heersmink and colleagues argue, they are “multifunctional cognitive artefacts” that remix what they have seen rather than reason in any human sense.^[Heersmink et al. (2024).] Yet their fluency, combined with a chatty interface, encourages users to treat them less as calculators and more as colleagues—often granting them an authority that their statistical innards do not justify.^[Heersmink et al. (2024).]  
 
 The result is a technology that feels conversational and occasionally insightful, but whose outputs remain contingent, probabilistic and ungrounded in any genuine grasp of truth.^[Heersmink et al. (2024); Feyijimi et al. (2025).] These systems can summarise a quarterly report, draft a legal memo or sketch a software architecture in seconds, and they are seeping into education, software development and corporate decision‑support.^[Feyijimi et al. (2025); Reihanian et al. (2025).] But the same mechanisms that enable such productivity gains also make them prone to error, bias and manipulation, raising questions about accuracy, privacy and governance that no responsible user can ignore.^[Polyportis & Pahos (2024); Rogers & Zhang (2025).]  
 
@@ -78,6 +78,9 @@ For organisations, safeguards must be institutionalised. Sensible measures inclu
 The evidence from education and industry alike suggests that hybrid arrangements work best: AI for speed, breadth and draft‑quality work; humans for context, ethics and final judgement.^[Feyijimi et al. (2025); Reihanian et al. (2025); Heersmink et al. (2024).] In that modest but demanding division of labour lies the most realistic path to using these statistical black boxes wisely.  
 
 ---
+[^1]: T. Feyijimi, J. Aliu, Ayodeji Emmanuel Oke, D. Aghimien (2025).
+[^2]: T. Feyijimi, J. Aliu, Ayodeji Emmanuel Oke, D. Aghimien (2025).
+
 
 ## References  
 
