@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Operational Readiness Framework-Knowing when you are ready
+title: An Operational Readiness Framework
 author: James M
 banner:
   video: 
