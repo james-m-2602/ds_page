@@ -85,8 +85,9 @@ This is a forcing function for programme managers. It prevents the common patter
 
 ![Operational Readiness Framework](/assets/images/orl.jpg)
 
-Is the tech  Do the parts Can real users
-mature enough? fit together? operate it safely?
+Is the tech ready?
+Do the parts integrate and work together?
+Can real users use the change safely?
 
 All three must reach sufficient maturity before the SRL index reflects genuine deployment readiness. The system proceeds at the speed of its slowest dimension.
 
