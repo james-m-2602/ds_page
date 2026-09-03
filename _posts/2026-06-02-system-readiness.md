@@ -83,17 +83,10 @@ The full framework combines all three readiness dimensions into a single operati
 
 This is a forcing function for programme managers. It prevents the common pattern in which human factors work is treated as something that happens after the system is built, rather than a parallel and equally important maturation track. It also aligns with the HRL standard’s emphasis on evaluating human readiness alongside the technology lifecycle rather than after deployment (Steelman and Handley, 2022).
 
-```text
-OPERATIONAL READINESS (SRL)
-           |
-┌──────────┼──────────┐
-│          │          │
-TECHNOLOGY  INTEGRATION HUMAN
-(TR L)      (IRL)      (HRL)
-│          │          │
+![Operational Readiness Framework](/assets/images/orl.jpg)
+
 Is the tech  Do the parts Can real users
 mature enough? fit together? operate it safely?
-```
 
 All three must reach sufficient maturity before the SRL index reflects genuine deployment readiness. The system proceeds at the speed of its slowest dimension.
 
