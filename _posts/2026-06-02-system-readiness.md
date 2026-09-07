@@ -163,22 +163,7 @@ The governing principle is therefore:
 
 > **A capability is operationally ready only when every critical condition for safe, effective, sustainable, and accountable operation has been demonstrated to the required level of confidence.**
 
-Conceptually:
-
-
-$$
-\mathrm{ORL} \approx \min\left(
-  \mathrm{SRL}_{\text{critical}},
-  \mathrm{HRL}_{\text{critical}},
-  \mathrm{PRL}_{\text{critical}},
-  \mathrm{OrgRL}_{\text{critical}},
-  \mathrm{ARL}_{\text{critical}},
-  \mathrm{VRL}_{\text{critical}}
-\right)
-$$
-
-
-Where the terms represent the maturity of critical requirements in the system, human, process, organisational, assurance, and value dimensions. This expression is not intended to replace judgement with mathematics. Its purpose is to make explicit that a material weakness in a critical condition cannot be offset by strength elsewhere.
+ORL is constrained by the lowest maturity of any critical system, human, process, organisational, support-and-assurance, or mission-and-value condition.
 
 In practice, ORL reporting should show:
 
