@@ -165,16 +165,18 @@ The governing principle is therefore:
 
 Conceptually:
 
+
 $$
 \mathrm{ORL} \approx \min\left(
-\mathrm{SRL}_{\text{critical}},
-\mathrm{HRL}_{\text{critical}},
-\mathrm{PRL}_{\text{critical}},
-\mathrm{OrgRL}_{\text{critical}},
-\mathrm{ARL}_{\text{critical}},
-\mathrm{VRL}_{\text{critical}}
+  \mathrm{SRL}_{\text{critical}},
+  \mathrm{HRL}_{\text{critical}},
+  \mathrm{PRL}_{\text{critical}},
+  \mathrm{OrgRL}_{\text{critical}},
+  \mathrm{ARL}_{\text{critical}},
+  \mathrm{VRL}_{\text{critical}}
 \right)
 $$
+
 
 Where the terms represent the maturity of critical requirements in the system, human, process, organisational, assurance, and value dimensions. This expression is not intended to replace judgement with mathematics. Its purpose is to make explicit that a material weakness in a critical condition cannot be offset by strength elsewhere.
 
